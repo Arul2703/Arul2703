@@ -1,3 +1,5 @@
+Welcome to Arularasi's Profile 👋
+
 - 👋 Hi, I’m Arularasi J
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning .NET Framework
