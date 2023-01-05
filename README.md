@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arularasi J</h1>
 <h3 align="center">A passionate Software Engineer Trainee currently working @ Aspire Systems</h3>
 
-<img align="right" src="[[https://as2.ftcdn.net/v2/jpg/04/19/89/39/1000_F_419893950_XY2aVUT5S5cPObSXOWFpBMi8da9jtMfH.jpg](https://github.com/Arul2703/Arul2703/blob/main/Programming%20img.JPG)](https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg?w=1060)">
+<img align="right" src="[[https://as2.ftcdn.net/v2/jpg/04/19/89/39/1000_F_419893950_XY2aVUT5S5cPObSXOWFpBMi8da9jtMfH.jpg](https://github.com/Arul2703/Arul2703/blob/main/Programming%20img.JPG)](https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg?w=1060)" width="300px" height="200px">
 
 - 🔭 I’m currently working on **Student Management System Project (.NET Framework)**
 
