@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arularasi J</h1>
 <h3 align="center">A passionate Software Engineer Trainee currently working @ Aspire Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arul2703" alt="arul2703" /></a> </p>
+<img align="right" src="https://as2.ftcdn.net/v2/jpg/04/19/89/39/1000_F_419893950_XY2aVUT5S5cPObSXOWFpBMi8da9jtMfH.jpg">
 
 - 🔭 I’m currently working on **Student Management System Project (.NET Framework)**
 
