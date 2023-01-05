@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arul2703" alt="arul2703" /></a> </p>
 
-- 🔭 I’m currently working on **Student Management System (.NET Framework)**
+- 🔭 I’m currently working on **Student Management System Project (.NET Framework)**
 
 - 🌱 I’m currently learning **AWS , C#, ASP.NET**
 
