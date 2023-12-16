@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Online Food Ordering System Project (.NET Framework)**
 
-- 🌱 I’m currently learning **AWS , C#, ASP.NET**
+- 🌱 I’m currently learning **C#, ASP.NET**
 
-- 💬 Ask me about **java,problem solving**
+- 💬 Ask me about ** .NET ,problem solving**
 
 - 📫 How to reach me **arularasi2002@gmail.com**
 
